@@ -1,4 +1,4 @@
-# Robot-Kinematics-Dynamics
+# Robot-Kinematics-&-Trajectory-Planning
 Custom MATLAB Library for Kinematic and Dynamic Modeling of n-axis robotic manipulators
 
 Script Breakdown:
